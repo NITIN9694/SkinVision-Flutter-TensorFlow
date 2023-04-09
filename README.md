@@ -1,16 +1,5 @@
 # skininfectiondetector
+# This Project Include the  TensorFlow Model to Detect The Skin Infection which type of this disease. It sample project for limited number skin disease. This is Idea OF Future we can make that type of application which helps  any user to find the result  
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/61863033/230760700-b0ed9a32-f504-4ac1-a4e9-faa05a1b64bb.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
