@@ -1,0 +1,10 @@
+0  Eczema 1677
+1 Tinea Ringworm Candidiasis and other Fungal 
+2 Seborrheic Keratoses and other Benign Tumors 
+3 Psoriasis pictures Lichen Planus and related disea
+4 Benign Keratosis-like Lesions (BKL)
+5  Melanocytic Nevi (NV) 
+6 Basal Cell Carcinoma (BCC) 3323
+7 Atopic Dermatitis 
+8 Melanoma 
+9 Warts Molluscum and other Viral Infections -

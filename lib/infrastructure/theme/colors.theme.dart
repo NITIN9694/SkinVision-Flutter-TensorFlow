@@ -1,0 +1,31 @@
+import 'package:flutter/material.dart';
+import 'package:hexcolor/hexcolor.dart';
+class ColorsTheme {
+  static Color colD4D4D4 = HexColor("#D4D4D4");
+  static Color colPrimary = HexColor("#FF4A4A");
+  static Color colLight = HexColor("#989898");
+  static Color colBlack = HexColor("#000000");
+  static Color colWhite = HexColor("#ffffff");
+  static Color colRed = HexColor("#EE3124");
+  static Color col_EA = HexColor("#FFEBEA");
+  static Color col_FF = HexColor("#FF655A");
+  static Color col_E4 = HexColor("#E4F2EC");
+  static Color col_00 = HexColor("#006838");
+  static Color col_F6 = HexColor("#F6C8C3");
+  static Color col_0E = HexColor("#0E9247");
+  static Color col_E9 = HexColor("#E9FFF5");
+  static Color col_E8 = HexColor("#E8F6F0");
+  static Color col_F5 = HexColor("#F5FAF8");
+  static Color col_E9D = HexColor("#E9D9FF");
+  static Color col_E9D5 = HexColor("#E9D5D4");
+  static Color col_66 = HexColor("#66EFB0");
+  static Color col_24 = HexColor("#2484A4");
+  static Color col_2E = HexColor("#2E4971");
+  static Color col_7B = HexColor("#7B96C4");
+  static Color col_69 = HexColor("#697A98");
+  static Color col_B8 = HexColor("#B8BFD6");
+  static Color col_48 = HexColor("#485296");
+  static Color col_CB = HexColor("#CBB4C6");
+  static Color col_64 = HexColor("#64A4D6");
+  static Color col_C7 = HexColor("#C782C2");
+}
